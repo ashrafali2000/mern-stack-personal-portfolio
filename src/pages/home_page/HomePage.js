@@ -101,6 +101,7 @@ export default function Home() {
                       src="./myimg.jpg"
                       alt="home pic"
                       className="img-fluid"
+                      
                     />
                   </Fade>
                 </Tilt>

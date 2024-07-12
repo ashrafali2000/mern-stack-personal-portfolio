@@ -33,10 +33,10 @@ function EducationJourney() {
       <VerticalTimeline>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          contentStyle={{  backgroundColor: "rgb(52, 153, 111)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
           date="2004 - 2014"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          iconStyle={{  backgroundColor: "rgb(52, 153, 111)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">
@@ -52,10 +52,10 @@ function EducationJourney() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          contentStyle={{  backgroundColor: "rgb(52, 153, 111)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
           date="2014 - 2018"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          iconStyle={{  backgroundColor: "rgb(52, 153, 111)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">
@@ -71,10 +71,10 @@ function EducationJourney() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          contentStyle={{  backgroundColor: "rgb(52, 153, 111)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
           date="2019 - 2023"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          iconStyle={{  backgroundColor: "rgb(52, 153, 111)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">GRADUATION</h4>

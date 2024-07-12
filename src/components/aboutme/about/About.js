@@ -4,11 +4,12 @@ import { Row } from "react-bootstrap";
 import { Col } from "react-bootstrap";
 import Slide from "react-reveal/Slide";
 import Fade from "react-reveal/Fade";
+import { colors } from "@mui/material";
 const About = () => {
   return (
     <div>
       <Container>
-        {/* <Slide left > */}
+        <Slide left >
         <Row className="mt-5">
           <Col md={5}>
             {/* <GreetingLottie animationPath="/lottie/coding.json" /> */}
@@ -18,7 +19,7 @@ const About = () => {
                 src="https://assets5.lottiefiles.com/packages/lf20_iv4dsx3q.json"
                 background="transparnt"
                 speed="1"
-                style={{ width: "100%", height: "90%"}}
+                style={{ width: "100%", height: "90%",color:"#0f0"}}
                 loop
                 autoplay
               ></lottie-player>
@@ -62,7 +63,7 @@ const About = () => {
             </Fade>
           </Col>
         </Row>
-        {/* </Slide> */}
+        </Slide>
       </Container>
     </div>
   );
