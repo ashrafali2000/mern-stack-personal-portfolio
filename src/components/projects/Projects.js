@@ -30,12 +30,12 @@ export default function Projects() {
                   key={1}
                   className="singleProject"
                   style={{
-                    backgroundColor: "rgb(142 70 186 / 31%)",
+                    backgroundColor: "rgb(52, 153, 111)",
                     border: "1px solid",
                   }}
                 >
                   <div className="projectContent">
-                    <h5 id={"first"} style={{ color: "#fbd9ad" }}>
+                    <h5 id={"first"} style={{ color: "#fff" }}>
                       New Year CountDown
                     </h5>
                     <img src={nyc} alt={nyc} />
@@ -61,8 +61,8 @@ export default function Projects() {
                     <p
                       className="project--desc"
                       style={{
-                        background: "#fbd9ad",
-                        color: "#b061df",
+                        background: "#000",
+                        color: "#bbb",
                         fontWeight: 600,
                       }}
                     >
@@ -77,8 +77,8 @@ export default function Projects() {
                   <div
                     className="project--lang"
                     style={{
-                      background: "#fbd9ad",
-                      color: "#b061df",
+                      background: "#000",
+                      color: "#bbb",
                       fontWeight: 600,
                     }}
                   >
@@ -93,12 +93,12 @@ export default function Projects() {
                   key={1}
                   className="singleProject"
                   style={{
-                    backgroundColor: "rgb(142 70 186 / 31%)",
+                    backgroundColor: "rgb(52, 153, 111)",
                     border: "1px solid",
                   }}
                 >
                   <div className="projectContent">
-                    <h5 id={"first"} style={{ color: "#fbd9ad" }}>
+                    <h5 id={"first"} style={{ color: "#fff" }}>
                       Heart Disease Prediction
                     </h5>
                     <img src={hd} alt={hd} />
@@ -124,8 +124,8 @@ export default function Projects() {
                     <p
                       className="project--desc"
                       style={{
-                        background: "#fbd9ad",
-                        color: "#b061df",
+                        background: "#000",
+                        color: "#bbb",
                         fontWeight: 600,
                       }}
                     >
@@ -139,8 +139,8 @@ export default function Projects() {
                   <div
                     className="project--lang"
                     style={{
-                      background: "#fbd9ad",
-                      color: "#b061df",
+                      background: "#000",
+                      color: "#bbb",
                       fontWeight: 600,
                     }}
                   >
@@ -155,12 +155,13 @@ export default function Projects() {
                   key={1}
                   className="singleProject"
                   style={{
-                    backgroundColor: "rgb(142 70 186 / 31%)",
+                    // backgroundColor: "rgb(142 70 186 / 31%)",
+                    backgroundColor: "rgb(52, 153, 111)",
                     border: "1px solid",
                   }}
                 >
                   <div className="projectContent">
-                    <h5 id={"first"} style={{ color: "#fbd9ad" }}>
+                    <h5 id={"first"} style={{ color: "#fff" }}>
                       Online Payroll Management System
                     </h5>
                     <img src={ci} alt={ci} />
@@ -186,8 +187,8 @@ export default function Projects() {
                     <p
                       className="project--desc"
                       style={{
-                        background: "#fbd9ad",
-                        color: "#b061df",
+                        background: "#000",
+                        color: "#bbb",
                         fontWeight: 600,
                       }}
                     >
@@ -201,8 +202,8 @@ export default function Projects() {
                   <div
                     className="project--lang"
                     style={{
-                      background: "#fbd9ad",
-                      color: "#b061df",
+                      background: "#000",
+                      color: "#bbb",
                       fontWeight: 600,
                     }}
                   >
@@ -217,12 +218,12 @@ export default function Projects() {
                   key={1}
                   className="singleProject"
                   style={{
-                    backgroundColor: "rgb(142 70 186 / 31%)",
+                    backgroundColor: "rgb(52, 153, 111)",
                     border: "1px solid",
                   }}
                 >
                   <div className="projectContent">
-                    <h5 id={"first"} style={{ color: "#fbd9ad" }}>
+                    <h5 id={"first"} style={{ color: "#fff" }}>
                       Personal Portfolio
                     </h5>
                     <img src={pp} alt={pp} />
@@ -248,8 +249,8 @@ export default function Projects() {
                     <p
                       className="project--desc"
                       style={{
-                        background: "#fbd9ad",
-                        color: "#b061df",
+                        background: "#000",
+                        color: "#bbb",
                         fontWeight: 600,
                       }}
                     >
@@ -261,8 +262,8 @@ export default function Projects() {
                   <div
                     className="project--lang"
                     style={{
-                      background: "#fbd9ad",
-                      color: "#b061df",
+                      background: "#000",
+                      color: "#bbb",
                       fontWeight: 600,
                     }}
                   >
