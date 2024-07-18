@@ -15,7 +15,7 @@ export default function Projects() {
     <div>
       <Container fluid className="certificate-section" id="about">
         <Container>
-          <Row>
+          <Row className="g-5">
             <Col
               md={12}
               className="certificate-description d-flex justify-content-start"
@@ -24,7 +24,7 @@ export default function Projects() {
                 <h1 className="aboutme-heading">Projects</h1>
               </Zoom>
             </Col>
-            <Col md={3}>
+            <Col md={3} className="col-sm-12 col-md-6 col-lg-4">
               <Fade bottom>
                 <div
                   key={1}
@@ -36,13 +36,13 @@ export default function Projects() {
                 >
                   <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fff" }}>
-                      New Year CountDown
+                      FGRF (Faizan Global Relief Foundation)
                     </h5>
-                    <img src={nyc} alt={nyc} />
+                    <img src="./project_images/fgrf.png" alt="./project_images/fgrf.png" />
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/New-Year-Countdown"
+                          "https://www.fgrf.uk/"
                         }
                         target="_blank"
                         rel="noreferrer"
@@ -87,7 +87,7 @@ export default function Projects() {
                 </div>
               </Fade>
             </Col>
-            <Col md={3}>
+            <Col md={3} className="col-sm-12 col-md-6 col-lg-4">
               <Fade bottom>
                 <div
                   key={1}
@@ -99,13 +99,13 @@ export default function Projects() {
                 >
                   <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fff" }}>
-                      Heart Disease Prediction
+                      Sigmantarian
                     </h5>
-                    <img src={hd} alt={hd} />
+                    <img src="./project_images/sigmantarian.png" alt="./project_images/sigmantarian.png" />
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://github.com/MD-MAFUJUL-HASAN/Machine_Learning/tree/main/Heart%20Disease%20Prediction"
+                          "https://sigmantarian.com/"
                         }
                         target="_blank"
                         rel="noreferrer"
@@ -149,7 +149,7 @@ export default function Projects() {
                 </div>
               </Fade>
             </Col>
-            <Col md={3}>
+            <Col md={3} className="col-sm-12 col-md-6 col-lg-4">
               <Fade bottom>
                 <div
                   key={1}
@@ -162,13 +162,13 @@ export default function Projects() {
                 >
                   <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fff" }}>
-                      Online Payroll Management System
+                      BawdicSoft
                     </h5>
-                    <img src={ci} alt={ci} />
+                    <img src="./project_images/bawdicsoft.png" alt="./project_images/bawdicsoft.png" />
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://github.com/MD-MAFUJUL-HASAN/Online-Payroll-Management-System"
+                          "https://www.bawdicsoft.com/"
                         }
                         target="_blank"
                         rel="noreferrer"
@@ -212,7 +212,7 @@ export default function Projects() {
                 </div>
               </Fade>
             </Col>
-            <Col md={3}>
+            <Col md={3} className="col-sm-12 col-md-6 col-lg-4">
               <Fade bottom>
                 <div
                   key={1}
@@ -224,13 +224,133 @@ export default function Projects() {
                 >
                   <div className="projectContent">
                     <h5 id={"first"} style={{ color: "#fff" }}>
-                      Personal Portfolio
+                      Al-Madina School System
                     </h5>
-                    <img src={pp} alt={pp} />
+                    <img src="./project_images/almadinaschoolsystem.png" alt="./project_images/almadinaschoolsystem.png" />
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://github.com/MD-MAFUJUL-HASAN/Personal-Portfolio"
+                          "https://al-madina-school-system.vercel.app/"
+                        }
+                        target="_blank"
+                        rel="noreferrer"
+                        className={"iconBtn"}
+                        aria-labelledby={`code`}
+                      >
+                        <FaCode
+                          id={`code`}
+                          className={"icon"}
+                          aria-label="Code"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <h6>
+                    <p
+                      className="project--desc"
+                      style={{
+                        background: "#000",
+                        color: "#bbb",
+                        fontWeight: 600,
+                      }}
+                    >
+                      Welcome to my personal portfolio. Explore my work, skills,
+                      and achievements in a concise and visually appealing
+                      format. Get a glimpse of my expertise and creativity.
+                    </p>
+                  </h6>
+                  <div
+                    className="project--lang"
+                    style={{
+                      background: "#000",
+                      color: "#bbb",
+                      fontWeight: 600,
+                    }}
+                  >
+                    HTML, CSS, SCSS, React, JavaScript
+                  </div>
+                </div>
+              </Fade>
+            </Col>
+            <Col md={3} className="col-sm-12 col-md-6 col-lg-4">
+              <Fade bottom>
+                <div
+                  key={1}
+                  className="singleProject"
+                  style={{
+                    backgroundColor: "rgb(52, 153, 111)",
+                    border: "1px solid",
+                  }}
+                >
+                  <div className="projectContent">
+                    <h5 id={"first"} style={{ color: "#fff" }}>
+                      Mern BLog Website
+                    </h5>
+                    <img src="./project_images/mern_blog.png" alt="./project_images/mern_blog.png" />
+                    <div className="project--showcaseBtn">
+                      <a
+                        href={
+                          "https://mern-blog-app-py3d.vercel.app/"
+                        }
+                        target="_blank"
+                        rel="noreferrer"
+                        className={"iconBtn"}
+                        aria-labelledby={`code`}
+                      >
+                        <FaCode
+                          id={`code`}
+                          className={"icon"}
+                          aria-label="Code"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <h6>
+                    <p
+                      className="project--desc"
+                      style={{
+                        background: "#000",
+                        color: "#bbb",
+                        fontWeight: 600,
+                      }}
+                    >
+                      Welcome to my personal portfolio. Explore my work, skills,
+                      and achievements in a concise and visually appealing
+                      format. Get a glimpse of my expertise and creativity.
+                    </p>
+                  </h6>
+                  <div
+                    className="project--lang"
+                    style={{
+                      background: "#000",
+                      color: "#bbb",
+                      fontWeight: 600,
+                    }}
+                  >
+                    HTML, CSS, SCSS, React, JavaScript
+                  </div>
+                </div>
+              </Fade>
+            </Col>
+            <Col md={3} className="col-sm-12 col-md-6 col-lg-4">
+              <Fade bottom>
+                <div
+                  key={1}
+                  className="singleProject"
+                  style={{
+                    backgroundColor: "rgb(52, 153, 111)",
+                    border: "1px solid",
+                  }}
+                >
+                  <div className="projectContent">
+                    <h5 id={"first"} style={{ color: "#fff" }}>
+                    Image Generater
+                    </h5>
+                    <img src="./project_images/promt_to_image.png" alt="./project_images/promt_to_image.png" />
+                    <div className="project--showcaseBtn">
+                      <a
+                        href={
+                          "https://prompt-to-image.vercel.app/"
                         }
                         target="_blank"
                         rel="noreferrer"

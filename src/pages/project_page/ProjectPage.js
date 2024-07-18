@@ -50,13 +50,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  New Year CountDown
+                                  FGRF (Faizan Global Relief Foundation)
                                 </h5>
-                                <img src={nyc} alt={nyc} />
+                                <img src="./project_images/fgrf.png" alt="./project_images/fgrf.png" />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/New-Year-Countdown"
+                                      "https://www.fgrf.uk/"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -114,13 +114,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Heart Disease Prediction
+                                  Sigmantarian
                                 </h5>
-                                <img src={hd} alt={hd} />
+                                <img src="./project_images/sigmantarian.png" alt="./project_images/sigmantarian.png" />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Machine_Learning/tree/main/Heart%20Disease%20Prediction"
+                                      "https://sigmantarian.com/"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -177,13 +177,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectPageContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Online Payroll Management System
+                                  BawdicSoft
                                 </h5>
-                                <img src={ci} alt={ci} />
+                                <img src="./project_images/bawdicsoft.png" alt="./project_images/bawdicsoft.png" />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Online-Payroll-Management-System"
+                                      "https://www.bawdicsoft.com/"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -240,13 +240,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Shoppy Ecommerce
+                                  Al-Madina School System
                                 </h5>
-                                <img src={eco} alt={eco} />
+                                <img src="./project_images/almadinaschoolsystem.png" alt="./project_images/almadinaschoolsystem.png" />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Shoppy_Ecommerce"
+                                      "https://al-madina-school-system.vercel.app/"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -303,13 +303,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Personal Portfolio
+                                  Mern Blog Website
                                 </h5>
-                                <img src={pp} alt={pp} />
+                                <img src="./project_images/mern_blog.png" alt="./project_images/mern_blog.png" />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Personal-Portfolio"
+                                      "https://mern-blog-app-py3d.vercel.app/"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -333,10 +333,12 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                  Welcome to my personal portfolio. Explore my
-                                  work, skills, and achievements in a concise
-                                  and visually appealing format. Get a glimpse
-                                  of my expertise and creativity.
+                                  Seamless online shopping with a vast catalog,
+                                  secure transactions, and personalized
+                                  recommendations. 24/7 customer support,
+                                  flexible payments, and fast shipping. Explore
+                                  our website and redefine your shopping
+                                  experience.
                                 </p>
                               </h6>
                               <div
@@ -347,7 +349,7 @@ export default function ProjectPage() {
                                   fontWeight: 600,
                                 }}
                               >
-                                HTML, CSS, SCSS, React, JavaScript
+                                HTML, CSS, React, JavaScript
                               </div>
                             </div>
                           </Fade>
@@ -364,13 +366,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Amazing Meal
+                                  Image Generater
                                 </h5>
-                                <img src={meal} alt={meal} />
+                                <img src="./project_images/promt_to_image.png" alt="./project_images/mern_blog.png" />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Amazing_Meal"
+                                      "https://prompt-to-image.vercel.app/"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -394,12 +396,12 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                  Indulge in a mouthwatering meal that combines
-                                  flavors and textures to create a culinary
-                                  masterpiece. Our carefully crafted dishes are
-                                  made with the freshest ingredients, expertly
-                                  prepared to satisfy your taste buds and leave
-                                  you craving for more.
+                                  Seamless online shopping with a vast catalog,
+                                  secure transactions, and personalized
+                                  recommendations. 24/7 customer support,
+                                  flexible payments, and fast shipping. Explore
+                                  our website and redefine your shopping
+                                  experience.
                                 </p>
                               </h6>
                               <div
@@ -410,374 +412,13 @@ export default function ProjectPage() {
                                   fontWeight: 600,
                                 }}
                               >
-                                HTML, CSS, JavaScript, React
+                                HTML, CSS, React, JavaScript
                               </div>
                             </div>
                           </Fade>
                         </Col>
-                        <Col md={3} className="col-sm-12 col-md-4">
-                          <Fade bottom>
-                            <div
-                              key={1}
-                              className="singleProject"
-                              style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
-                                border: "1px solid",
-                              }}
-                            >
-                              <div className="projectContent">
-                                <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Academia Learning Website
-                                </h5>
-                                <img src={ac} alt={ac} />
-                                <div className="project--showcaseBtn">
-                                  <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Academia"
-                                    }
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    className={"iconBtn"}
-                                    aria-labelledby={`code`}
-                                  >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
-                                  </a>
-                                </div>
-                              </div>
-                              <h6>
-                                <p
-                                  className="project--desc"
-                                  style={{
-                                    background: "#fbd9ad",
-                                    color: "#b061df",
-                                    fontWeight: 600,
-                                  }}
-                                >
-                                  Unlock your potential with our dynamic
-                                  learning website. Access a wide range of
-                                  courses, interactive lessons, and expert
-                                  instructors to enhance your knowledge and
-                                  skills. Start your learning journey today and
-                                  expand your horizons.
-                                </p>
-                              </h6>
-                              <div
-                                className="project--lang"
-                                style={{
-                                  background: "#fbd9ad",
-                                  color: "#b061df",
-                                  fontWeight: 600,
-                                }}
-                              >
-                                HTML, CSS, JavaScript, React
-                              </div>
-                            </div>
-                          </Fade>
-                        </Col>
-                        <Col md={3} className="col-sm-12 col-md-4">
-                          <Fade bottom>
-                            <div
-                              key={1}
-                              className="singleProject"
-                              style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
-                                border: "1px solid",
-                              }}
-                            >
-                              <div className="projectContent">
-                                <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Dual Mode Calendar
-                                </h5>
-                                <img src={calendar} alt={calendar} />
-                                <div className="project--showcaseBtn">
-                                  <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/Dual-Mode-Calendar"
-                                    }
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    className={"iconBtn"}
-                                    aria-labelledby={`code`}
-                                  >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
-                                  </a>
-                                </div>
-                              </div>
-                              <h6>
-                                <p
-                                  className="project--desc"
-                                  style={{
-                                    background: "#fbd9ad",
-                                    color: "#b061df",
-                                    fontWeight: 600,
-                                  }}
-                                >
-                                  The Dual Mode Calendar project is a versatile web application built with HTML, CSS, and JavaScript. It seamlessly 
-                                  toggles between a traditional monthly calendar view and a sleek event scheduler. Users can effortlessly manage 
-                                  appointments and events in a visually appealing and user-friendly interface.
-                                </p>
-                              </h6>
-                              <div
-                                className="project--lang"
-                                style={{
-                                  background: "#fbd9ad",
-                                  color: "#b061df",
-                                  fontWeight: 600,
-                                }}
-                              >
-                                HTML, CSS, JavaScript
-                              </div>
-                            </div>
-                          </Fade>
-                        </Col>
-                        <Col md={3} className="col-sm-12 col-md-4">
-                          <Fade bottom>
-                            <div
-                              key={1}
-                              className="singleProject"
-                              style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
-                                border: "1px solid",
-                              }}
-                            >
-                              <div className="projectContent">
-                                <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Dual Mode Calculator
-                                </h5>
-                                <img src={calculator} alt={calculator} />
-                                <div className="project--showcaseBtn">
-                                  <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/Dual-Mode-Calculator"
-                                    }
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    className={"iconBtn"}
-                                    aria-labelledby={`code`}
-                                  >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
-                                  </a>
-                                </div>
-                              </div>
-                              <h6>
-                                <p
-                                  className="project--desc"
-                                  style={{
-                                    background: "#fbd9ad",
-                                    color: "#b061df",
-                                    fontWeight: 600,
-                                  }}
-                                >
-                                  The Dual Mode Calculator project is a web application created with HTML, CSS, and JavaScript. It offers two modes: 
-                                  basic and scientific, providing essential arithmetic functions and advanced calculations. The user-friendly interface 
-                                  and responsive design ensure seamless use across various devices.
-                                </p>
-                              </h6>
-                              <div
-                                className="project--lang"
-                                style={{
-                                  background: "#fbd9ad",
-                                  color: "#b061df",
-                                  fontWeight: 600,
-                                }}
-                              >
-                                HTML, CSS, JavaScript
-                              </div>
-                            </div>
-                          </Fade>
-                        </Col>
-                        <Col md={3} className="col-sm-12 col-md-4">
-                          <Fade bottom>
-                            <div
-                              key={1}
-                              className="singleProject"
-                              style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
-                                border: "1px solid",
-                              }}
-                            >
-                              <div className="projectContent">
-                                <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Digital Clock
-                                </h5>
-                                <img src={dc} alt={dc} />
-                                <div className="project--showcaseBtn">
-                                  <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/Digital-Clock"
-                                    }
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    className={"iconBtn"}
-                                    aria-labelledby={`code`}
-                                  >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
-                                  </a>
-                                </div>
-                              </div>
-                              <h6>
-                                <p
-                                  className="project--desc"
-                                  style={{
-                                    background: "#fbd9ad",
-                                    color: "#b061df",
-                                    fontWeight: 600,
-                                  }}
-                                >
-                                  Create a sleek, responsive digital clock with HTML, CSS, and JavaScript. Display real-time hours, minutes, and seconds, 
-                                  and update automatically. Customize its style and layout using CSS for a modern, functional timekeeping experience.
-                                </p>
-                              </h6>
-                              <div
-                                className="project--lang"
-                                style={{
-                                  background: "#fbd9ad",
-                                  color: "#b061df",
-                                  fontWeight: 600,
-                                }}
-                              >
-                                HTML, CSS, JavaScript
-                              </div>
-                            </div>
-                          </Fade>
-                        </Col>
-                        <Col md={3} className="col-sm-12 col-md-4">
-                          <Fade bottom>
-                            <div
-                              key={1}
-                              className="singleProject"
-                              style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
-                                border: "1px solid",
-                              }}
-                            >
-                              <div className="projectContent">
-                                <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Age Calculator
-                                </h5>
-                                <img src={age} alt={age} />
-                                <div className="project--showcaseBtn">
-                                  <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/Age-Calculator"
-                                    }
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    className={"iconBtn"}
-                                    aria-labelledby={`code`}
-                                  >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
-                                  </a>
-                                </div>
-                              </div>
-                              <h6>
-                                <p
-                                  className="project--desc"
-                                  style={{
-                                    background: "#fbd9ad",
-                                    color: "#b061df",
-                                    fontWeight: 600,
-                                  }}
-                                >
-                                  Create an Age Calculator project using HTML, CSS, and JavaScript. Input your birthdate, and the tool 
-                                  instantly calculates your current age. The sleek design and user-friendly interface make age 
-                                  determination quick and hassle-free. Perfect for websites, apps, or personal use.
-                                </p>
-                              </h6>
-                              <div
-                                className="project--lang"
-                                style={{
-                                  background: "#fbd9ad",
-                                  color: "#b061df",
-                                  fontWeight: 600,
-                                }}
-                              >
-                                HTML, CSS, JavaScript
-                              </div>
-                            </div>
-                          </Fade>
-                        </Col>
-                        <Col md={3} className="col-sm-12 col-md-4">
-                          <Fade bottom>
-                            <div
-                              key={1}
-                              className="singleProject"
-                              style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
-                                border: "1px solid",
-                              }}
-                            >
-                              <div className="projectContent">
-                                <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                  Student Information Management System
-                                </h5>
-                                <img src={sims} alt={sims} />
-                                <div className="project--showcaseBtn">
-                                  <a
-                                    href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Student-Information-Management-System"
-                                    }
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    className={"iconBtn"}
-                                    aria-labelledby={`code`}
-                                  >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
-                                  </a>
-                                </div>
-                              </div>
-                              <h6>
-                                <p
-                                  className="project--desc"
-                                  style={{
-                                    background: "#fbd9ad",
-                                    color: "#b061df",
-                                    fontWeight: 600,
-                                  }}
-                                >
-                                  The Student Information Management System project in C++ is a robust software solution designed to 
-                                  efficiently organize and manage student data. It enables users to store, update, and retrieve student 
-                                  information, including grades, attendance, and personal details, ensuring streamlined academic 
-                                  administration.
-                                </p>
-                              </h6>
-                              <div
-                                className="project--lang"
-                                style={{
-                                  background: "#fbd9ad",
-                                  color: "#b061df",
-                                  fontWeight: 600,
-                                }}
-                              >
-                                C++
-                              </div>
-                            </div>
-                          </Fade>
-                        </Col>
+                        
+                        
                       </Row>
                     </Col>
                   </Row>
