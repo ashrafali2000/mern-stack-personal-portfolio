@@ -18,10 +18,10 @@ export default function PersonalSkill() {
             <Container>
                 <Row className='g-5'>
                     <Col md={4}>
-                        <h1 style={{ fontSize: '100px',color:'#fe3e57',fontWeight:700 }}>75%</h1>
+                        <h1 style={{ fontSize: '100px',color:'#fe3e57',fontWeight:700 }}>20%</h1>
                         <div style={{ paddingLeft: '50px',paddingRight:'50px'}}>
                         <div class="progress">
-                            <div role={"progressbar"} id={"com"} aria-valuenow={"75"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '75%'}}>
+                            <div role={"progressbar"} id={"com"} aria-valuenow={"75"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '20%'}}>
                                 
                             </div>
                         </div>
@@ -29,20 +29,20 @@ export default function PersonalSkill() {
                         </div>
                     </Col>
                     <Col md={4}>
-                        <h1 style={{ fontSize: '100px',color:'#54faae',fontWeight:700 }}>85%</h1>
+                        <h1 style={{ fontSize: '100px',color:'#54faae',fontWeight:700 }}>30%</h1>
                         <div style={{ paddingLeft: '50px',paddingRight:'50px'}}>
                         <div class="progress">
-                            <div role={"progressbar"} id={"pm"} aria-valuenow={"85"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '85%'}}>
+                            <div role={"progressbar"} id={"pm"} aria-valuenow={"85"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '30%'}}>
                             </div>
                         </div>
                         <h2 style={{color:'#54faae',fontSize:'25px',marginTop:'13px',fontWeight:700 }}>Project Management</h2>
                         </div>
                     </Col>
                     <Col md={4}>
-                        <h1 style={{ fontSize: '100px',color:'#ff8c2f',fontWeight:700}}>81%</h1>
+                        <h1 style={{ fontSize: '100px',color:'#ff8c2f',fontWeight:700}}>21%</h1>
                         <div style={{ paddingLeft: '50px',paddingRight:'50px'}}>
                         <div class="progress">
-                            <div role={"progressbar"} id={"ps"} aria-valuenow={"81"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '81%'}}>
+                            <div role={"progressbar"} id={"ps"} aria-valuenow={"81"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '21%'}}>
                                 
                             </div>
                         </div>
@@ -50,20 +50,20 @@ export default function PersonalSkill() {
                         </div>
                     </Col>
                     <Col md={4}>
-                        <h1 style={{ fontSize: '100px',color:'#f1f965',fontWeight:700 }}>77%</h1>
+                        <h1 style={{ fontSize: '100px',color:'#f1f965',fontWeight:700 }}>10%</h1>
                         <div style={{ paddingLeft: '50px',paddingRight:'50px'}}>
                         <div class="progress">
-                            <div role={"progressbar"} id={"aa"} aria-valuenow={"77"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '77%'}}>
+                            <div role={"progressbar"} id={"aa"} aria-valuenow={"77"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '10%'}}>
                             </div>
                         </div>
                         <h2 style={{color:'#f1f965',fontSize:'25px',marginTop:'13px',fontWeight:700 }}>Analytical Abilities</h2>
                         </div>
                     </Col>
                     <Col md={4}>
-                        <h1 style={{ fontSize: '100px',color:'#ff0173',fontWeight:700 }}>87%</h1>
+                        <h1 style={{ fontSize: '100px',color:'#ff0173',fontWeight:700 }}>17%</h1>
                         <div style={{ paddingLeft: '50px',paddingRight:'50px'}}>
                         <div class="progress">
-                            <div role={"progressbar"} id={"org"} aria-valuenow={"87"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '87%'}}>
+                            <div role={"progressbar"} id={"org"} aria-valuenow={"87"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '17%'}}>
                                 
                             </div>
                         </div>
@@ -71,10 +71,10 @@ export default function PersonalSkill() {
                         </div>
                     </Col>
                     <Col md={4}>
-                        <h1 style={{ fontSize: '100px',color:'#39c4ff',fontWeight:700 }}>79%</h1>
+                        <h1 style={{ fontSize: '100px',color:'#39c4ff',fontWeight:700 }}>29%</h1>
                         <div style={{ paddingLeft: '50px',paddingRight:'50px'}}>
                         <div class="progress">
-                            <div role={"progressbar"} id={"cr"} aria-valuenow={"79"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '79%'}}>
+                            <div role={"progressbar"} id={"cr"} aria-valuenow={"79"} aria-valuemin={"0"} aria-valuemax={"100"} style={{width: '29%'}}>
                             </div>
                         </div>
                         <h2 style={{color:'#39c4ff',fontSize:'25px',marginTop:'13px',fontWeight:700 }}>Creativity</h2>

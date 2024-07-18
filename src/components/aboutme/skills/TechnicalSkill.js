@@ -27,7 +27,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#fe3e57", fontWeight: 700 }}
               >
-                75%
+                10%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -37,7 +37,7 @@ export default function TechnicalSkill() {
                     aria-valuenow={"85"}
                     aria-valuemin={"0"}
                     aria-valuemax={"100"}
-                    style={{ width: "85%" }}
+                    style={{ width: "6%" }}
                   ></div>
                 </div>
                 <h2
@@ -56,7 +56,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#54faae", fontWeight: 700 }}
               >
-                75%
+                10%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -66,7 +66,7 @@ export default function TechnicalSkill() {
                     aria-valuenow={"85"}
                     aria-valuemin={"0"}
                     aria-valuemax={"100"}
-                    style={{ width: "85%" }}
+                    style={{ width: "6%" }}
                   ></div>
                 </div>
                 <h2
@@ -85,7 +85,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#39c4ff", fontWeight: 700 }}
               >
-                80%
+                2%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -95,7 +95,7 @@ export default function TechnicalSkill() {
                     aria-valuenow={"90"}
                     aria-valuemin={"0"}
                     aria-valuemax={"100"}
-                    style={{ width: "90%" }}
+                    style={{ width: "2%" }}
                   ></div>
                 </div>
                 <h2
@@ -114,7 +114,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#f1f965", fontWeight: 700 }}
               >
-                71%
+                50%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -124,7 +124,7 @@ export default function TechnicalSkill() {
                     aria-valuenow={"81"}
                     aria-valuemin={"0"}
                     aria-valuemax={"100"}
-                    style={{ width: "81%" }}
+                    style={{ width: "50%" }}
                   ></div>
                 </div>
                 <h2
@@ -143,7 +143,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#ff0173", fontWeight: 700 }}
               >
-                68%
+                3%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -153,7 +153,7 @@ export default function TechnicalSkill() {
                     aria-valuenow={"88"}
                     aria-valuemin={"0"}
                     aria-valuemax={"100"}
-                    style={{ width: "88%" }}
+                    style={{ width: "3%" }}
                   ></div>
                 </div>
                 <h2
@@ -172,7 +172,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#ff8c2f", fontWeight: 700 }}
               >
-                66%
+                30%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -182,7 +182,7 @@ export default function TechnicalSkill() {
                     aria-valuenow={"86"}
                     aria-valuemin={"0"}
                     aria-valuemax={"100"}
-                    style={{ width: "86%" }}
+                    style={{ width: "20%" }}
                   ></div>
                 </div>
                 <h2
@@ -201,7 +201,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#41f2ff", fontWeight: 700 }}
               >
-                78%
+              50%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -211,7 +211,7 @@ export default function TechnicalSkill() {
                     aria-valuenow={"86"}
                     aria-valuemin={"0"}
                     aria-valuemax={"100"}
-                    style={{ width: "86%" }}
+                    style={{ width: "40%" }}
                   ></div>
                 </div>
                 <h2
@@ -230,7 +230,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#fe3e57", fontWeight: 700 }}
               >
-                75%
+                1%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -240,7 +240,7 @@ export default function TechnicalSkill() {
                     aria-valuenow={"85"}
                     aria-valuemin={"0"}
                     aria-valuemax={"100"}
-                    style={{ width: "85%" }}
+                    style={{ width: "2%" }}
                   ></div>
                 </div>
                 <h2
@@ -259,7 +259,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#54faae", fontWeight: 700 }}
               >
-                75%
+                2%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -269,7 +269,7 @@ export default function TechnicalSkill() {
                     aria-valuenow={"85"}
                     aria-valuemin={"0"}
                     aria-valuemax={"100"}
-                    style={{ width: "85%" }}
+                    style={{ width: "2%" }}
                   ></div>
                 </div>
                 <h2

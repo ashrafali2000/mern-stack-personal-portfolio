@@ -79,7 +79,7 @@ export default function MyNav() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/resume"
@@ -87,9 +87,9 @@ export default function MyNav() {
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/certificatepage"
@@ -97,7 +97,7 @@ export default function MyNav() {
               >
                 <ImBlog style={{ marginBottom: "2px" }} /> Certifications
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
             <Nav.Item>
               <Nav.Link
@@ -111,7 +111,7 @@ export default function MyNav() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/MD-MAFUJUL-HASAN/Personal-Portfolio"
+                href="https://github.com/ashrafali2000/"
                 target="_blank"
                 className="fork-btn-inner"
               >

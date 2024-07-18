@@ -12,7 +12,7 @@ export default function Certification() {
   return (
     <div>
       <Container fluid className="certificate-section" id="about">
-        <Container>
+        {/* <Container>
           <Row>
             <Col
               md={12}
@@ -165,7 +165,7 @@ export default function Certification() {
               </button>
             </Link>
           </div>
-        </Container>
+        </Container> */}
       </Container>
     </div>
   );

@@ -9,6 +9,7 @@ import pp from "../../images/portfolio.png";
 import { FaCode } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { HiArrowRight } from "react-icons/hi";
+import { AiOutlineSend } from "react-icons/ai";
 
 export default function Projects() {
   return (
@@ -49,11 +50,8 @@ export default function Projects() {
                         className={"iconBtn"}
                         aria-labelledby={`code`}
                       >
-                        <FaCode
-                          id={`code`}
-                          className={"icon"}
-                          aria-label="Code"
-                        />
+                        <AiOutlineSend className="send-icon" />
+                       
                       </a>
                     </div>
                   </div>
@@ -112,11 +110,7 @@ export default function Projects() {
                         className={"iconBtn"}
                         aria-labelledby={`code`}
                       >
-                        <FaCode
-                          id={`code`}
-                          className={"icon"}
-                          aria-label="Code"
-                        />
+                        <AiOutlineSend className="send-icon" />
                       </a>
                     </div>
                   </div>
@@ -175,11 +169,7 @@ export default function Projects() {
                         className={"iconBtn"}
                         aria-labelledby={`code`}
                       >
-                        <FaCode
-                          id={`code`}
-                          className={"icon"}
-                          aria-label="Code"
-                        />
+                        <AiOutlineSend className="send-icon" />
                       </a>
                     </div>
                   </div>
@@ -237,11 +227,7 @@ export default function Projects() {
                         className={"iconBtn"}
                         aria-labelledby={`code`}
                       >
-                        <FaCode
-                          id={`code`}
-                          className={"icon"}
-                          aria-label="Code"
-                        />
+                        <AiOutlineSend className="send-icon" />
                       </a>
                     </div>
                   </div>
@@ -297,11 +283,7 @@ export default function Projects() {
                         className={"iconBtn"}
                         aria-labelledby={`code`}
                       >
-                        <FaCode
-                          id={`code`}
-                          className={"icon"}
-                          aria-label="Code"
-                        />
+                        <AiOutlineSend className="send-icon" />
                       </a>
                     </div>
                   </div>
@@ -357,11 +339,7 @@ export default function Projects() {
                         className={"iconBtn"}
                         aria-labelledby={`code`}
                       >
-                        <FaCode
-                          id={`code`}
-                          className={"icon"}
-                          aria-label="Code"
-                        />
+                        <AiOutlineSend className="send-icon" />
                       </a>
                     </div>
                   </div>

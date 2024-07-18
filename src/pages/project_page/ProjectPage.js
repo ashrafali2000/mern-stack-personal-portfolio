@@ -16,6 +16,7 @@ import calendar from "../../images/calendar.png";
 import dc from "../../images/dc.png";
 import sims from "../../images/sims.png";
 import { FaCode } from "react-icons/fa";
+import { AiOutlineSend } from "react-icons/ai";
 export default function ProjectPage() {
   return (
     <section className="home-section">
@@ -28,7 +29,7 @@ export default function ProjectPage() {
             style={{ backgroundColor: "#fbd9ad" }}
           >
             <Zoom left cascade>
-              <h1 style={{ color: "rgb(134 61 176" }}>PROJECTS</h1>
+              <h1 style={{ color: "rgb(52, 153, 111)" }}>PROJECTS</h1>
             </Zoom>
           </div>
           <div>
@@ -44,7 +45,7 @@ export default function ProjectPage() {
                               key={1}
                               className="singleProject"
                               style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
+                                backgroundColor: "rgb(52, 153, 111)",
                                 border: "1px solid",
                               }}
                             >
@@ -63,11 +64,7 @@ export default function ProjectPage() {
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
                                   >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
+                                    <AiOutlineSend className="send-icon" />
                                   </a>
                                 </div>
                               </div>
@@ -108,7 +105,7 @@ export default function ProjectPage() {
                               key={1}
                               className="singleProject"
                               style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
+                                backgroundColor: "rgb(52, 153, 111)",
                                 border: "1px solid",
                               }}
                             >
@@ -127,11 +124,7 @@ export default function ProjectPage() {
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
                                   >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
+                                    <AiOutlineSend className="send-icon" />
                                   </a>
                                 </div>
                               </div>
@@ -171,7 +164,7 @@ export default function ProjectPage() {
                               key={1}
                               className="singleProjectPage"
                               style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
+                                backgroundColor: "rgb(52, 153, 111)",
                                 border: "1px solid",
                               }}
                             >
@@ -190,11 +183,7 @@ export default function ProjectPage() {
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
                                   >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
+                                    <AiOutlineSend className="send-icon" />
                                   </a>
                                 </div>
                               </div>
@@ -234,7 +223,7 @@ export default function ProjectPage() {
                               key={1}
                               className="singleProject"
                               style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
+                                backgroundColor: "rgb(52, 153, 111)",
                                 border: "1px solid",
                               }}
                             >
@@ -253,11 +242,7 @@ export default function ProjectPage() {
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
                                   >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
+                                    <AiOutlineSend className="send-icon" />
                                   </a>
                                 </div>
                               </div>
@@ -297,7 +282,7 @@ export default function ProjectPage() {
                               key={1}
                               className="singleProject"
                               style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
+                                backgroundColor: "rgb(52, 153, 111)",
                                 border: "1px solid",
                               }}
                             >
@@ -316,11 +301,7 @@ export default function ProjectPage() {
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
                                   >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
+                                    <AiOutlineSend className="send-icon" />
                                   </a>
                                 </div>
                               </div>
@@ -360,7 +341,7 @@ export default function ProjectPage() {
                               key={1}
                               className="singleProject"
                               style={{
-                                backgroundColor: "rgb(142 70 186 / 31%)",
+                                backgroundColor: "rgb(52, 153, 111)",
                                 border: "1px solid",
                               }}
                             >
@@ -379,11 +360,66 @@ export default function ProjectPage() {
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
                                   >
-                                    <FaCode
-                                      id={`code`}
-                                      className={"icon"}
-                                      aria-label="Code"
-                                    />
+                                    <AiOutlineSend className="send-icon" />
+                                  </a>
+                                </div>
+                              </div>
+                              <h6>
+                                <p
+                                  className="project--desc"
+                                  style={{
+                                    background: "#fbd9ad",
+                                    color: "#b061df",
+                                    fontWeight: 600,
+                                  }}
+                                >
+                                  Seamless online shopping with a vast catalog,
+                                  secure transactions, and personalized
+                                  recommendations. 24/7 customer support,
+                                  flexible payments, and fast shipping. Explore
+                                  our website and redefine your shopping
+                                  experience.
+                                </p>
+                              </h6>
+                              <div
+                                className="project--lang"
+                                style={{
+                                  background: "#fbd9ad",
+                                  color: "#b061df",
+                                  fontWeight: 600,
+                                }}
+                              >
+                                HTML, CSS, React, JavaScript
+                              </div>
+                            </div>
+                          </Fade>
+                        </Col>
+                        <Col md={3} className="col-sm-12 col-md-4">
+                          <Fade bottom>
+                            <div
+                              key={1}
+                              className="singleProject"
+                              style={{
+                                backgroundColor: "rgb(52, 153, 111)",
+                                border: "1px solid",
+                              }}
+                            >
+                              <div className="projectContent">
+                                <h5 id={"first"} style={{ color: "#fbd9ad" }}>
+                                  Mevn Ecommerce App
+                                </h5>
+                                <img src="./project_images/ecommerce_web.png" alt="./project_images/ecommerce_web.png" />
+                                <div className="project--showcaseBtn">
+                                  <a
+                                    href={
+                                      "https://second-vuejs-with-vuex-store.vercel.app/"
+                                    }
+                                    target="_blank"
+                                    rel="noreferrer"
+                                    className={"iconBtn"}
+                                    aria-labelledby={`code`}
+                                  >
+                                    <AiOutlineSend className="send-icon" />
                                   </a>
                                 </div>
                               </div>

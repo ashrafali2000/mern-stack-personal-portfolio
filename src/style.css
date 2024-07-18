@@ -94,7 +94,7 @@ html {
 }
 
 .navbarmain{
-  margin-left: 210px;
+  margin-left: 510px;
 }
 .navbar-toggler span {
   display: block !important;
@@ -308,7 +308,7 @@ html {
   font-size: 4.0em !important;
   padding-left: 45px !important;
 }
-
+ 
 .main-name {
   /* color: #cb70ff; */
   color: #0eec9e;
@@ -858,7 +858,7 @@ html {
 }
 
 .Navitem .nav-tabs .nav-link:focus,.Navitem .nav-tabs .nav-link:hover {
-  border-color: #b061df #b061df #b061df;
+  border-color: #5ed44e #54d669 #3ab96f;
   isolation: isolate;
 }
 
@@ -1017,11 +1017,11 @@ html {
 
 .homesocialicons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #801f95;
+  box-shadow: 0 0 25px #1ac55c;
 }
 
 .homesocialicons:hover {
-  color: #87209e;
+  color: #2f9e20;
   box-shadow: 0 0 25px #87209e;
   text-shadow: 0 0 2px #87209e;
 }
@@ -1033,7 +1033,7 @@ html {
 }
 
 .iconcolour {
-  color: #700c86 !important;
+  color: #139228 !important;
 }
 
 .cert-card {
@@ -1447,7 +1447,7 @@ html {
 
 .submitBtn{
   background-color: #fbd9ad;
-  color: #742586;
+  color: #1c6638;
   transition: 250ms ease-in-out;
   font-weight: 700;
 }
@@ -1479,7 +1479,7 @@ html {
 
 .detailsIcon{
   background-color: #fbd9ad;
-  color: #742586;
+  color: #1c6638;
   border-radius: 50%;
   width: 45px;
   height: 45px;
@@ -1675,9 +1675,9 @@ html {
 }
 .iconBtn:hover {
     background-color: #fbd9ad;
-    color: rgb(93 43 123);
+    color: rgb(49, 141, 49);
     transform: scale(1.1);
-    border: 2px solid rgb(93 43 123);
+    border: 2px solid rgb(23, 221, 122);
 }
 
 @media (max-width: 470px) {

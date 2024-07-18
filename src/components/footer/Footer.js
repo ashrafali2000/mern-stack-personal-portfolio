@@ -29,7 +29,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/md-mafujul-hasan/"
+                href="/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -39,7 +39,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/_md_mafujul_hasan_/"
+                href="/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -49,7 +49,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.facebook.com/mh.tonmoy.13"
+                href="/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -59,7 +59,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="mailto:mdtonmoy13.mt@gmail.com/"
+                href="/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"

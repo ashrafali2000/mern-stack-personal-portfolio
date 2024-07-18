@@ -43,7 +43,7 @@ function EducationJourney() {
             SECONDARY SCHOOL CERTIFICATE
           </h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-            BOF High School, Gazipur
+          Government High School Killi Ismail Kakozai.
           </h4>
           <p>
             Studied here from Class 1 to 10th as a part of secondary school
@@ -59,14 +59,14 @@ function EducationJourney() {
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            DIPLOMA IN ENGINEERING
+            INTERMEDIATE IN (ICS)
           </h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-            Dhaka Polytechnic Institute, Dhaka
+            Al-Beruni Intermediate college Ahsan Abad Karachi.
           </h4>
           <p>
-            Studied Diploma in Computer Technology from Dhaka Polytechnic
-            institute and gain CGPA 2.98.
+            Studied Inter in Computer Technology from Karachi 
+             and gain CGPA 2.98.
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -79,11 +79,11 @@ function EducationJourney() {
         >
           <h4 className="vertical-timeline-element-title">GRADUATION</h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-            Sonargaon University, Dhaka
+            FUUAST University, Karachi Pakistan
           </h4>
           <p>
             Studied Bachelor of Science degree in Computer Science and
-            Engineering field from Sonargaon University and gain CGPA 3.44.
+            Engineering field from FUUAST University and gain CGPA 3.44.
           </p>
         </VerticalTimelineElement>
 
